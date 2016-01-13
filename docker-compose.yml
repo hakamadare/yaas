@@ -4,3 +4,5 @@ api:
    - "3000:3000"
   volumes:
    - .:/usr/src/app
+  environment:
+    - RACK_ENV=production
