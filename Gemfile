@@ -31,6 +31,8 @@ gem 'padrino', '~> 0.13'
 #   gem 'padrino-' + g, '0.13.0'
 # end
 
+gem 'padrino-assets'
+
 # Grape
 gem 'grape'
 gem 'grape-entity'
