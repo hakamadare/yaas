@@ -21,7 +21,7 @@ gem 'rake'
 # Test requirements
 
 # Padrino Stable Gem
-gem 'padrino', '~> 0.13'
+gem 'padrino', '~> 0.13.1' # This change was made via Snyk to fix a vulnerability
 
 # Or Padrino Edge
 # gem 'padrino', :github => 'padrino/padrino-framework'
