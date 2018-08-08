@@ -34,6 +34,6 @@ gem 'padrino', '~> 0.13', '>= 0.13.3.1'
 gem 'padrino-assets', '>= 0.3.1'
 
 # Grape
-gem 'grape'
+gem 'grape', '>= 1.1.0'
 gem 'grape-entity'
-gem 'grape-swagger'
+gem 'grape-swagger', '>= 0.10.2'
