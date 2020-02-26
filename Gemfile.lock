@@ -87,7 +87,7 @@ GEM
       padrino-core (= 0.14.2)
     padrino-support (0.14.2)
     puma (2.15.3)
-    rack (1.6.10)
+    rack (1.6.13)
     rack-accept (0.4.5)
       rack (>= 0.4)
     rack-mount (0.8.3)
