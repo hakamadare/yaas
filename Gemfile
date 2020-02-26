@@ -14,7 +14,7 @@ gem 'puma' # or mongrel
 # gem 'oj'
 
 # Project requirements
-gem 'rake'
+gem 'rake', '>= 12.3.3'
 
 # Component requirements
 
