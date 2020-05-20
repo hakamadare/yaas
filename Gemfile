@@ -21,7 +21,7 @@ gem 'rake', '>= 12.3.3'
 # Test requirements
 
 # Padrino Stable Gem
-gem 'padrino', '~> 0.13', '>= 0.13.3.1'
+gem 'padrino', '~> 0.14', '>= 0.14.2'
 
 # Or Padrino Edge
 # gem 'padrino', :github => 'padrino/padrino-framework'
@@ -34,6 +34,6 @@ gem 'padrino', '~> 0.13', '>= 0.13.3.1'
 gem 'padrino-assets', '>= 0.3.1'
 
 # Grape
-gem 'grape'
-gem 'grape-entity'
-gem 'grape-swagger'
+gem 'grape', '>= 0.14.0'
+gem 'grape-entity', '>= 0.5.0'
+gem 'grape-swagger', '>= 0.10.2'
