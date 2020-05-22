@@ -86,7 +86,7 @@ GEM
       mime-types (< 3)
       padrino-core (= 0.14.2)
     padrino-support (0.14.2)
-    puma (2.15.3)
+    puma (3.12.6)
     rack (1.6.10)
     rack-accept (0.4.5)
       rack (>= 0.4)
