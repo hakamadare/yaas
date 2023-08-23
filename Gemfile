@@ -7,7 +7,7 @@ source 'https://rubygems.org'
 # gemspec
 
 # Server requirements
-gem 'puma' # or mongrel
+gem 'puma' , '>= 5.6.7' # or mongrel
 # gem 'trinidad', :platform => 'jruby'
 
 # Optional JSON codec (faster performance)
@@ -34,6 +34,6 @@ gem 'padrino', '~> 0.13', '>= 0.13.3.1'
 gem 'padrino-assets', '>= 0.3.1'
 
 # Grape
-gem 'grape'
-gem 'grape-entity'
-gem 'grape-swagger'
+gem 'grape', '>= 0.15.0'
+gem 'grape-entity', '>= 0.5.1'
+gem 'grape-swagger', '>= 0.20.0'
