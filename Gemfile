@@ -7,7 +7,7 @@ source 'https://rubygems.org'
 # gemspec
 
 # Server requirements
-gem 'puma' # or mongrel
+gem 'puma' , '>= 5.6.8' # or mongrel
 # gem 'trinidad', :platform => 'jruby'
 
 # Optional JSON codec (faster performance)
